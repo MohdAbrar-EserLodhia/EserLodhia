@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EserLodhia
-- 👀 I’m interested in Developing apps for IOS and similar Apple Products
+- 👀 I’m interested in Developing apps for IOS 
 - 🌱 I’m currently learning Swift, SwiftUI, UIKit, Objective C
 - 💞️ I’m looking to collaborate on Creating apps and UI for IOS 
 - 📫 How to reach me EserLodhia@gmail.com
